@@ -17,3 +17,6 @@ Folder Interformer-SBU contains the code to run on the SBU interaction dataset (
 Folder Interformer-K3HI contains the code to run on the K3HI dataset([link](http://www.lmars.whu.edu.cn/prof_web/zhuxinyan/DataSetPublish/dataset.html))
 
 Code for DuetDance will be available soon.
+
+![alt text](https://github.com/CRISTAL-3DSAM/InterFormer/blob/main/Figures/Interformer(1).jpg "InterFormer overview")
+
