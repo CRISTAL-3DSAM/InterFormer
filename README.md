@@ -13,6 +13,7 @@ imageio 2.9.0
 matplotlib 3.4.1
 
 Folder Interformer-SBU contains the code to run on the SBU interaction dataset ([link](https://www3.cs.stonybrook.edu/~kyun/research/kinect_interaction/index.html))
+
 Folder Interformer-K3HI contains the code to run on the K3HI dataset([link](http://www.lmars.whu.edu.cn/prof_web/zhuxinyan/DataSetPublish/dataset.html))
 
-
+Code for DuetDance will be available soon.
