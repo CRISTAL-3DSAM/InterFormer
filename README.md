@@ -1,4 +1,7 @@
 # InterFormer
+
+Code for the paper "Interaction Transformer for Human ReactionGeneration" ([https://arxiv.org/pdf/2207.01685.pdf](https://arxiv.org/pdf/2207.01685.pdf))
+
 InterFormer method to generate a reaction motion based on an action motion with 3D skeletons
 
 
