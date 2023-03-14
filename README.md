@@ -34,3 +34,16 @@ Code for DuetDance will be available soon.
 
 ![alt text](https://github.com/CRISTAL-3DSAM/InterFormer/blob/main/Figures/Interformer(1).jpg "InterFormer overview")
 
+
+Citation:
+```
+@ARTICLE{10036100,
+  author={Chopin, Baptiste and Tang, Hao and Otberdout, Naima and Daoudi, Mohamed and Sebe, Nicu},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Interaction Transformer for Human Reaction Generation}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TMM.2023.3242152}}
+```
