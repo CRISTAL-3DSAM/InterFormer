@@ -4,7 +4,7 @@ Code for the paper "Interaction Transformer for Human ReactionGeneration" ([http
 
 InterFormer method to generate a reaction motion based on an action motion with 3D skeletons
 
-![](Videos/SBU_Punching.mp4)
+![](/Videos/SBU_Punching.mp4)
 
 <video width="320" height="240" controls>
   <source src="Videos/SBU_Punching.mp4" type="video/mp4">
