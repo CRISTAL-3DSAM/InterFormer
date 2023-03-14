@@ -4,7 +4,7 @@ Code for the paper "Interaction Transformer for Human ReactionGeneration" ([http
 
 InterFormer method to generate a reaction motion based on an action motion with 3D skeletons
 
-![](https://github.com/CRISTAL-3DSAM/InterFormer/blob/main/Videos/SBU_Punching.mp4)
+![](https://github.com/CRISTAL-3DSAM/InterFormer/tree/main/Videos/SBU_Punching.mp4)
 
 <video width="320" height="240" controls>
   <source src="https://github.com/CRISTAL-3DSAM/InterFormer/blob/main/Videos/SBU_Punching.mp4" type="video/mp4">
