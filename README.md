@@ -4,6 +4,8 @@ Code for the paper "Interaction Transformer for Human ReactionGeneration" ([http
 
 InterFormer method to generate a reaction motion based on an action motion with 3D skeletons
 
+![](Videos/SBU_Punching.mp4)
+
 
 dependencies:
 cuda 11.1
