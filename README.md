@@ -28,7 +28,7 @@ Code for DuetDance will be available soon.
 **Detailed instructions to run the code are available in each folder** 
 
 
-Citation:
+**Citation:**
 ```
 @ARTICLE{10036100,
   author={Chopin, Baptiste and Tang, Hao and Otberdout, Naima and Daoudi, Mohamed and Sebe, Nicu},
