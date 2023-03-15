@@ -11,6 +11,7 @@
 
 
 **This is the code for InterFormer on the K3HI dataset.
+
 WARNING : the code was tested on Windows, it should work on Macos and Linux but in case of trouble running it we recommend to use Windows**
 
 To test our model on the K3HI dataset use in a terminal:
