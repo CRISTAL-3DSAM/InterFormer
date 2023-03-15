@@ -35,8 +35,8 @@ After generating the reactions :
 ```
 	
 Visuals are stored in to folders :
-	- visual for comparison with the ground truth (left GT, right generated. In blue the action, in the other color the reaction)
-	- visual single for only the motion generated with InterFormer (in blue the action, in red the reaction)
+- "visual" for comparison with the ground truth (left GT, right generated. In blue the action, in the other color the reaction)
+- "visual_single" for only the motion generated with InterFormer (in blue the action, in red the reaction)
 	
 
 
