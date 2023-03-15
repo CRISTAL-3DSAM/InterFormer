@@ -1,4 +1,4 @@
-dependencies:
+**dependencies:**
 cuda 11.1
 torch 1.8.1 cuda version
 tensorflow 2.6.0 (for FVD calculation)
