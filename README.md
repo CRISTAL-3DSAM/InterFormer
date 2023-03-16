@@ -40,3 +40,7 @@ Code for DuetDance will be available soon.
   pages={1-13},
   doi={10.1109/TMM.2023.3242152}}
 ```
+
+**Acknowledgements**
+
+this project has recieved financial support from the CNRS  through the 80-prime  program.
