@@ -14,12 +14,25 @@
 
 **WARNING : the code was tested on Windows, it should work on Macos and Linux but in case of trouble running it we recommend to use Windows**
 
+
+**Contact the authors of the paper below to get acced to the skeleton data of the DuetDance dataset**
+```
+J. N. Kundu, H. Buckchash, P. Mandikal, R. M. V, A. Jamkhandi and R. V. Babu, "Cross-Conditioned Recurrent Networks for Long-Term Synthesis of Inter-Person Human Motion Interactions," 2020 IEEE Winter Conference on Applications of Computer Vision (WACV), Snowmass, CO, USA, 2020, pp. 2713-2722, doi: 10.1109/WACV45572.2020.9093627.
+```
+
+Then to format the data:
+```
+	copy the content of the database (male and female folder) into the 'data_raw' folder
+	python format_files.py
+```
+
+
 To test our model on the DuetDance dataset use in a terminal:
 ```
-	python test.py -load_weights Model -batch_size 2
+	python test.py -load_weights Model -batch_size 16
 	to generate the reactions without visuals
 	
-	python test.py -load_weights Model -batch_size 2 -visual
+	python test.py -load_weights Model -batch_size 16 -visual
 	to generate the reactions with visuals. Takes longer.
 ```
 
