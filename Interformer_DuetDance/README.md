@@ -36,7 +36,7 @@ To test our model on the DuetDance dataset use in a terminal:
 	to generate the reactions with visuals. Takes longer.
 ```
 
-**IMPORTANT: the batch size of 2 works for a GPU with 8Go of video memory. Adapt the batch size according to your own GPU.**
+**IMPORTANT: the batch size of 16 works for a GPU with 8Go of video memory. Adapt the batch size according to your own GPU.**
 	
 After generating the reactions :
 ```
