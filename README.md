@@ -43,4 +43,4 @@ Code for DuetDance will be available soon.
 
 **Acknowledgements**
 
-this project has recieved financial support from the CNRS  through the 80-prime  program.
+This project has received financial support from the CNRS through the 80—Prime program, from the French State, managed by the National Agency for Research (ANR) under the Investments for the future program with reference ANR-16-IDEX-0004 ULNE and by the EU H2020 project AI4Media under Grant 951911. 
